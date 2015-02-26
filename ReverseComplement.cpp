@@ -8,8 +8,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <sstream>
-#include "boost/random.hpp"
-#include "boost/generator_iterator.hpp"
 using namespace std;
 #if !defined(ARRAY_SIZE)
 #define ARRAY_SIZE(x) (sizeof((x)) / sizeof((x)[0]))

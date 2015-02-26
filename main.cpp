@@ -11,12 +11,11 @@
 #include <vector>
 #include <sstream>
 #include <iterator>
-#include <boost/tokenizer.hpp>
 #include "ReverseComplement.h"
 
 
 using namespace std;
-using namespace boost;
+
 
 
 void ReadKeys(int argc, char* argv[])
